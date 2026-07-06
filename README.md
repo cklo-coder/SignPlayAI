@@ -29,7 +29,7 @@ python game_engine.py
 
 Spacebar 跳過當前題目，ESC 返回主菜單。
 
-youtube video deom: 
+youtube video demo: https://youtu.be/kQiwyxtRBqw
 
 ## 未來擴展與隱私保障 (Future Roadmap & Privacy)：
 提及匿名排行榜、全句手語翻譯（SLT）流利度評估，以及純邊緣端內存即時銷毀的校園安全機制（這能極大拔高項目的學術深度）。
